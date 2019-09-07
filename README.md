@@ -2,4 +2,4 @@
 
 Multiplication table - 1 to 30
 
-Preview : https://omkargb.github.io/vue-project1/
+Preview : https://omkargb.github.io/vue-multiplication-table/
